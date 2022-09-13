@@ -1,0 +1,15 @@
+E:\YXL专用\YzkStudy\Demo\Demo\bin\Debug\net6.0\Demo.exe
+E:\YXL专用\YzkStudy\Demo\Demo\bin\Debug\net6.0\Demo.deps.json
+E:\YXL专用\YzkStudy\Demo\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+E:\YXL专用\YzkStudy\Demo\Demo\bin\Debug\net6.0\Demo.dll
+E:\YXL专用\YzkStudy\Demo\Demo\bin\Debug\net6.0\Demo.pdb
+E:\YXL专用\YzkStudy\Demo\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+E:\YXL专用\YzkStudy\Demo\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\YXL专用\YzkStudy\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+E:\YXL专用\YzkStudy\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+E:\YXL专用\YzkStudy\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+E:\YXL专用\YzkStudy\Demo\Demo\obj\Debug\net6.0\Demo.dll
+E:\YXL专用\YzkStudy\Demo\Demo\obj\Debug\net6.0\refint\Demo.dll
+E:\YXL专用\YzkStudy\Demo\Demo\obj\Debug\net6.0\Demo.pdb
+E:\YXL专用\YzkStudy\Demo\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+E:\YXL专用\YzkStudy\Demo\Demo\obj\Debug\net6.0\ref\Demo.dll
