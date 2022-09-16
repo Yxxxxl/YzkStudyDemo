@@ -50,6 +50,26 @@ namespace EFCoreDemo.Migrations
 
                     b.ToTable("T_Books", (string)null);
                 });
+
+            modelBuilder.Entity("EFCoreDemo.Person", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"), 1L, 1);
+
+                    b.Property<int>("Age")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("T_Persons", (string)null);
+                });
 #pragma warning restore 612, 618
         }
     }

@@ -10,6 +10,7 @@ namespace EFCoreDemo
     class TestDbContext : DbContext
     {
         public DbSet<Book> Books { get; set; }
+        public DbSet<Person> Persons { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             string connStr = "Server =. ; Database = demo ; Trusted_Connection = True";
